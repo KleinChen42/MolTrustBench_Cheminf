@@ -1,0 +1,15 @@
+﻿cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "MolTrustBench: release-aware public-source overlap auditing"
+version: "0.1.0"
+date-released: 2026-07-23
+authors:
+  - family-names: Chen
+    given-names: Zhuo
+    email: zhuoc@chalmers.se
+    affiliation: Chalmers University of Technology
+  - family-names: Yan
+    given-names: Bing
+    email: 51271300103@stu.ecnu.edu.cn
+    affiliation: East China Normal University
+url: "https://github.com/KleinChen42/MolTrustBench_Cheminf"

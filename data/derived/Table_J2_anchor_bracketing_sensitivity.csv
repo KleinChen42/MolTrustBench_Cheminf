@@ -1,0 +1,4 @@
+release_id,benchmark_accepted_n,public_parent_unique_n,strict_overlap_n,connectivity_overlap_n,parent_overlap_n,scaffold_exposed_n,scaffold_unexposed_n,scaffold_not_applicable_n,nn_ge_0_6_n,nn_ge_0_7_n,nn_ge_0_8_n,nn_ge_0_9_n,transform_hash,rdkit_version,outcome_values_accessed
+CHEMBL30,1978,2005733,298,312,325,1040,937,1,1072,514,189,45,sha256:7af78e7ba1f976f300f28eb8b9ac97f71c9405030d916c3bbf253551ee4fcbea,2024.03.5,False
+CHEMBL32,1978,2194629,346,360,373,1167,810,1,1190,576,204,49,sha256:7af78e7ba1f976f300f28eb8b9ac97f71c9405030d916c3bbf253551ee4fcbea,2024.03.5,False
+CHEMBL33,1978,2236914,346,360,373,1168,809,1,1194,579,205,50,sha256:7af78e7ba1f976f300f28eb8b9ac97f71c9405030d916c3bbf253551ee4fcbea,2024.03.5,False
