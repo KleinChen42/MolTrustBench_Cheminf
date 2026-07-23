@@ -11,10 +11,16 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data" / "derived"
 MANIFEST = DATA / "PUBLIC_DATA_MANIFEST.json"
+TEXT_SUFFIXES = {".cff", ".csv", ".json", ".md", ".py", ".toml", ".txt", ".yaml", ".yml"}
+TEXT_FILENAMES = {".gitattributes", ".gitignore", "LICENSE"}
 
 
 def sha256(path: Path) -> str:
-    return "sha256:" + hashlib.sha256(path.read_bytes()).hexdigest()
+    """Hash text artifacts after LF normalization so archive and checkout agree."""
+    data = path.read_bytes()
+    if path.suffix.lower() in TEXT_SUFFIXES or path.name in TEXT_FILENAMES:
+        data = data.replace(b"\r\n", b"\n")
+    return "sha256:" + hashlib.sha256(data).hexdigest()
 
 
 def read_rows(name: str) -> list[dict[str, str]]:
