@@ -11,8 +11,12 @@
                       "sha256":  "sha256:1b82a343de653a569273c0b2b3cae798ef59dad0e01619424b2030d32dd5e6ac"
                   },
                   {
+                      "path":  ".zenodo.json",
+                      "sha256":  "sha256:b4d91261904b7761181feccd7e69d6cbe69fd98bc0b5e188a2144fa02a71149b"
+                  },
+                  {
                       "path":  "CITATION.cff",
-                      "sha256":  "sha256:d00287c761bae36073f7c3557b4dfbd5df57e2eedf2bfc4f12d4348fbaae1930"
+                      "sha256":  "sha256:b27b5495420c9c719b2bf5c218bca8dc8ae818119947c9a9071b71f08e5ec79a"
                   },
                   {
                       "path":  "data/derived/README.md",
@@ -40,11 +44,11 @@
                   },
                   {
                       "path":  "docs/PUBLIC_SCOPE.md",
-                      "sha256":  "sha256:6766b10adabaf9f05cee19da37616886dcd72d0b944883d2ae5bc30ee288a893"
+                      "sha256":  "sha256:aaf67cdc4aa0a212bbdcc38aeb365cc0a8d6729acf4e70c11174383e8d146282"
                   },
                   {
                       "path":  "docs/REPRODUCE.md",
-                      "sha256":  "sha256:5b981724867e00c40aed7cad62a465aefaffd422cfbe540e16fb29b6efd48208"
+                      "sha256":  "sha256:dd00193352de6c5c83646c61c852ecf602cd570136b883e16f4f38f52b14a1c7"
                   },
                   {
                       "path":  "environment.yml",
@@ -63,12 +67,12 @@
                       "sha256":  "sha256:b8eebb0f6046558e81ed3ece1c62a756df2316a334fb3aed453551f813819bfe"
                   },
                   {
-                      "path":  "LICENSE_SELECTION_REQUIRED.md",
-                      "sha256":  "sha256:7c3077ddf7e0f2bdea2caff3461465e8032c40017096227ca1057002a2756dea"
+                      "path":  "LICENSE",
+                      "sha256":  "sha256:5d2a870d2190eaf575bc1ba38807e950700c2b6ade04afda057d0a13c976a0f7"
                   },
                   {
                       "path":  "README.md",
-                      "sha256":  "sha256:eccbcc65c6ce24bdc627e5646a0623c50e6a69973b756efd9b9c36f5d5a9c9ac"
+                      "sha256":  "sha256:4656bed71e9b47cc5cb14fdc1c2b571d9bbc6e6fec929c9d8ae25e3e94c4a1c7"
                   },
                   {
                       "path":  "requirements-dev.txt",

@@ -1,4 +1,8 @@
-﻿# Public scope and interpretation boundary
+# Public scope and interpretation boundary
+
+## Archive
+
+The versioned public archive is available at [10.5281/zenodo.21502338](https://doi.org/10.5281/zenodo.21502338).
 
 ## Included
 

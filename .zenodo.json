@@ -1,0 +1,25 @@
+{
+  "title": "MolTrustBench: release-aware public-source overlap auditing",
+  "description": "Compact, reproducible tools and outcome-free derived tables for release-aware public-source overlap auditing in molecular machine learning benchmarks.",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "MIT",
+  "version": "1.0",
+  "creators": [
+    {
+      "name": "Chen, Zhuo",
+      "affiliation": "Chalmers University of Technology"
+    },
+    {
+      "name": "Yan, Bing",
+      "affiliation": "East China Normal University"
+    }
+  ],
+  "keywords": [
+    "cheminformatics",
+    "molecular machine learning",
+    "benchmark auditing",
+    "ChEMBL",
+    "reproducibility"
+  ]
+}

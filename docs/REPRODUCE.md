@@ -1,4 +1,6 @@
-﻿# Reproducing the compact public package
+# Reproducing the compact public package
+
+The v1.0 archive is DOI-versioned at [10.5281/zenodo.21502338](https://doi.org/10.5281/zenodo.21502338).
 
 1. Clone the repository and retain the distributed directory structure.
 2. Run `python scripts/verify_public_release.py` from the repository root.
