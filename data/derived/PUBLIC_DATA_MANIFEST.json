@@ -12,11 +12,11 @@
                   },
                   {
                       "path":  ".zenodo.json",
-                      "sha256":  "sha256:b4d91261904b7761181feccd7e69d6cbe69fd98bc0b5e188a2144fa02a71149b"
+                      "sha256":  "sha256:17352a7eb59a7f89a4b0c83a12fb22956f7083b94b1043cfe5c6bdfea6b3023d"
                   },
                   {
                       "path":  "CITATION.cff",
-                      "sha256":  "sha256:b27b5495420c9c719b2bf5c218bca8dc8ae818119947c9a9071b71f08e5ec79a"
+                      "sha256":  "sha256:edf29d5da09b4c2f8a71c4a33b290cadf579940d2037f32fcc57371217055cae"
                   },
                   {
                       "path":  "data/derived/README.md",
@@ -72,7 +72,7 @@
                   },
                   {
                       "path":  "README.md",
-                      "sha256":  "sha256:4656bed71e9b47cc5cb14fdc1c2b571d9bbc6e6fec929c9d8ae25e3e94c4a1c7"
+                      "sha256":  "sha256:fb25f3d026d5beb721cad738ef2786624461016a6f5ee7f7223ae710dbf4e8d6"
                   },
                   {
                       "path":  "requirements-dev.txt",

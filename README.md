@@ -1,6 +1,6 @@
 # MolTrustBench
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21502338.svg)](https://doi.org/10.5281/zenodo.21502338)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21502641.svg)](https://doi.org/10.5281/zenodo.21502641)
 
 MolTrustBench is a compact, reproducible implementation package for **release-aware public-source overlap auditing** in molecular machine learning benchmarks. It provides outcome-free chemical-relation summaries, declared sensitivity analyses, figures, and reusable implementation components for molecular standardization, release indexing, exact relation checks, and identity-excluded nearest-neighbor comparisons.
 
@@ -48,7 +48,7 @@ This repository intentionally excludes raw public-release archives, benchmark ou
 
 ## Citation
 
-The versioned v1.0 archive is available at [Zenodo DOI: 10.5281/zenodo.21502338](https://doi.org/10.5281/zenodo.21502338). Citation metadata are provided in [`CITATION.cff`](CITATION.cff).
+The versioned v1.0.1 archive is available at [Zenodo DOI: 10.5281/zenodo.21502641](https://doi.org/10.5281/zenodo.21502641). Citation metadata are provided in [`CITATION.cff`](CITATION.cff).
 
 ## License
 
